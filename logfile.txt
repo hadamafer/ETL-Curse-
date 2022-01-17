@@ -1,0 +1,8 @@
+2022-Jan-17-09:50:17,ETL START
+2022-Jan-17-09:50:17,extract started
+2022-Jan-17-09:50:17,extract finished
+2022-Jan-17-09:50:17,transform started
+2022-Jan-17-09:50:17,transform finished
+2022-Jan-17-09:50:17,load started
+2022-Jan-17-09:50:17,load finished
+2022-Jan-17-09:50:17,etl ended
